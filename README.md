@@ -20,7 +20,7 @@ Features include:
 - ✖️ Supports multiple types of content including movies, TV shows and Anime (coming soon™️)
 
 ## Goals of movie-web
-
+yes
 - No ads
 - No BS: just a search bar and a video player
 - No responsibility on the hoster, no databases or api's hosted by us, just a static site
